@@ -16,3 +16,7 @@
 2024-08-10T16:42:15+00:00 NOTICE handleOrderUpdate :: order_status
 2024-08-10T16:46:21+00:00 NOTICE handleOrderUpdate :: order_status
 2024-08-10T16:46:21+00:00 NOTICE handleOrderUpdate :: order_status
+2024-08-10T17:00:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 133
+2024-08-10T17:06:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 133
+2024-08-10T17:08:37+00:00 NOTICE handleOrderUpdate :: order_status
+2024-08-10T17:08:37+00:00 NOTICE handleOrderUpdate :: order_status
